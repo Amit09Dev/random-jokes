@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-image: linear-gradient(to right bottom, #92bcfb, #00d4ff, #00e6e8, #00ef94, #a8eb12);
+}
+
+h2{
+  font-size: 45px;
+}
+
+p{
+  font-size: 25px;
+}
